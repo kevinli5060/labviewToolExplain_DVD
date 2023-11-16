@@ -1,0 +1,45 @@
+[ProjectWindow_Data]
+ProjectExplorer.ClassicPosition[String] = "59,21,459,399"
+
+[AB_Cache_{AC8A6C0B-604C-4A3E-A506-12136F0B313B}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "13fa4e21d818495f586b998aa4982326"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/C/Users/petedunc/Downloads/builds/Resistanc"
+Cache_GenFile[0][Path] Line0002 = "e Calculator/Resistor Calculator/ResistorCal"
+Cache_GenFile[0][Path] Line0003 = "culator.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/petedunc/Downloads/builds/Resistanc"
+Cache_GenFile[1][Path] Line0002 = "e Calculator/Resistor Calculator/ResistorCal"
+Cache_GenFile[1][Path] Line0003 = "culator.aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Users/petedunc/Downloads/builds/Resistanc"
+Cache_GenFile[2][Path] Line0002 = "e Calculator/Resistor Calculator/ResistorCal"
+Cache_GenFile[2][Path] Line0003 = "culator.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{12F8995C-D6B5-4559-9887-90F9D6E148B6}"
+Cache_GenGUID[1][String] = "{2E2433AB-A4DA-4297-918A-1DB405379189}"
+Cache_GenGUID[2][String] = "{81A37C63-1374-4332-BDF0-EF29B7FC2AE1}"
+Cache_OutputDir[Path] Line0001 = "/C/Users/petedunc/Downloads/builds/Resistance"
+Cache_OutputDir[Path] Line0002 = " Calculator/Resistor Calculator"
+
+[AB_Cache_{2E53D706-1F0B-46F9-AD55-BC061D53D256}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "13fa4e21d818495f586b998aa4982326"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/C/Users/petedunc/Downloads/builds/Resistanc"
+Cache_GenFile[0][Path] Line0002 = "e Calculator/Resistor Calculator/ResistorCal"
+Cache_GenFile[0][Path] Line0003 = "culator.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/petedunc/Downloads/builds/Resistanc"
+Cache_GenFile[1][Path] Line0002 = "e Calculator/Resistor Calculator/ResistorCal"
+Cache_GenFile[1][Path] Line0003 = "culator.aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Users/petedunc/Downloads/builds/Resistanc"
+Cache_GenFile[2][Path] Line0002 = "e Calculator/Resistor Calculator/ResistorCal"
+Cache_GenFile[2][Path] Line0003 = "culator.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{12F8995C-D6B5-4559-9887-90F9D6E148B6}"
+Cache_GenGUID[1][String] = "{2E2433AB-A4DA-4297-918A-1DB405379189}"
+Cache_GenGUID[2][String] = "{81A37C63-1374-4332-BDF0-EF29B7FC2AE1}"
+Cache_OutputDir[Path] Line0001 = "/C/Users/petedunc/Downloads/builds/Resistance"
+Cache_OutputDir[Path] Line0002 = " Calculator/Resistor Calculator"
+
